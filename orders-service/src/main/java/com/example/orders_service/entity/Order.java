@@ -34,7 +34,4 @@ public class Order {
     }
 }
 
-// Enum định nghĩa trạng thái đơn hàng
-enum OrderStatus {
-    PENDING, CONFIRMED, COMPLETED, CANCELLED
-}
+
